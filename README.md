@@ -1,5 +1,3 @@
-![Github banner](./Github_banner.png)
-
 <h1 align="center">Hi 👋🏻, I'm Mohit</h1>
 
 <p align="center">
